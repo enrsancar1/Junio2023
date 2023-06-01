@@ -34,7 +34,7 @@ publishing {
         
             groupId = 'us.enrsancar1.junio2023'
             artifactId = 'prueba'
-            version = '0.0'
+            version = '0.1'
 
             from components.java
         }
